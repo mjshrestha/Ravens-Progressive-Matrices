@@ -8,7 +8,7 @@ The agent has the accuracy of 75% with breakdown as follows:
 | Basic Problems C | 3 | 9 | 0 |
 | Basic Problems D | 9 | 3 | 0 |
 | Basic Problems E | 12 | 0 | 0 |
-| Total (48) | 36 | 12 | 0 |
+| **Total (48)** | **36 | 12 | 0** |
 
 ## Required Steps for installation
 1. Install Pycharm community edition
