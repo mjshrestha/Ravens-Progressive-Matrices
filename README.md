@@ -8,23 +8,23 @@ The agent has the accuracy of 75% with breakdown as follows:
 | Basic Problems C | 3 | 9 | 0 |
 | Basic Problems D | 9 | 3 | 0 |
 | Basic Problems E | 12 | 0 | 0 |
-| **Total (48)** | **36 | 12 | 0** |
+| **Total (48)** | **36** | **12** | **0** |
 
 ## Required Steps for installation
 1. Install Pycharm community edition
 2. Download and install Anaconda3
 3. Open the Anaconda3 prompt
 4. Run the commands in terminal:
-'''
+```
 conda create -n RPM python=3.4.3 anaconda pillow=4.0.0 numpy=1.12.0
 conda install requests==2.14.2 future==0.16.0
-'''
+```
 5. Activate the environment:
-'''conda activate RPM'''
+```conda activate RPM```
 6. Open Pycharm and use import existing project pointing to RPM
 
 ***Note:*** For full path of env, use the below command in terminal:
-'''conda info --envs'''
+```conda info --envs```
 
 
 ## Instructions to run:
