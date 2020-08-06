@@ -16,8 +16,9 @@ The agent has the accuracy of 75% with breakdown as follows:
 3. Open the Anaconda3 prompt
 4. Run the commands in terminal:
 ```
-conda create -n RPM python=3.4.3 anaconda pillow=4.0.0 numpy=1.12.0
+conda create -n RPM python=3.4.3 anaconda pillow=4.0.0 numpy=1.10.4
 conda install requests==2.14.2 future==0.16.0
+python -m pip install numpy==1.12.0
 ```
 5. Activate the environment:
 ```conda activate RPM```
