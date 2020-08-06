@@ -1,5 +1,5 @@
 # Ravens Progressive Matrices Test
-The agent solves the non-verbal intelligence test similar to [Raven's Progressive Matrices -RPM](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices) using visual approach with pixel intensity values as the comparison metrics. It has 4 sets from B to E. Set B has 12 - 2x2 matrix problems with 6 answer choices and sets C, D, and E have 12 - 3x3 matrix problems with 8 answer choices and the problems complexity in ascending order.
+The agent solves the non-verbal intelligence test similar to [Raven's Progressive Matrices -RPM](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices) using visual approach with pixel intensity values as the comparison metrics. It has 4 sets from B to E. Set B has 12 - 2x2 matrix problems with 6 answer choices and sets C, D, and E have 12 - 3x3 matrix problems with 8 answer choices and the problems complexity increase in ascending order.
 The agent has the accuracy of 75% with breakdown as follows:
 
 | Problem Set | Correct | Incorrect | Skipped |
