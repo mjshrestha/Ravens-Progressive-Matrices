@@ -47,7 +47,7 @@ class Agent:
         if type == "2x2":
             ans = solve2by2(problem)
         elif type == "3x3":
-            ans = solve3by3(problem) if 'Problems C' not in problem.problemSetName else solve3by3_till_C(problem)
+            ans = solve3by3(problem) if 'Problems C' not in problem.problemSetName else solve3by3_till_C(problem) 
         else:
             ans =-1
         return ans
