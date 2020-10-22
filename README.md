@@ -6,8 +6,8 @@ The agent has the accuracy of 80% with breakdown as follows:
 |-------------|---------|-----------|---------|
 | Basic Problems B | 12 | 0 | 0 |
 | Test Problems B (Unseen) | 10 | 2 | 0 |
-| Basic Problems C | 9 | 3 | 0 |
-| Test Problems C (Unseen)| 7 | 5 | 0 |
+| Basic Problems C | 12 | 0 | 0 |
+| Test Problems C (Unseen)| 9 | 3 | 0 |
 | Basic Problems D | 9 | 3 | 0 |
 | Test Problems D (Unseen)| 10 | 2 | 0 |
 | Basic Problems E | 12 | 0 | 0 |
