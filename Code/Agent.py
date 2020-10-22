@@ -16,6 +16,7 @@ from time import time
 
 from Solve2by2 import solve2by2
 from Solve3by3 import solve3by3
+from Solve3by3_till_C import solve3by3_till_C
 
 
 class Agent:
@@ -40,12 +41,14 @@ class Agent:
 
         type  = problem.problemType
         ans = -1
-        #print(problem.problemSetName)
+        if 'Problems C' in problem.problemSetName:
+            print(problem.problemSetName)
 
-        if type =="2x2":
+
+        if type == "2x2":
             ans = solve2by2(problem)
         elif type == "3x3":
-            ans = solve3by3(problem)
+            ans = solve3by3(problem) if 'Problems C' not in problem.problemSetName else solve3by3_till_C(problem)
         else:
             ans =-1
         return ans
