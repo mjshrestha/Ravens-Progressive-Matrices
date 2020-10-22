@@ -41,8 +41,7 @@ class Agent:
 
         type  = problem.problemType
         ans = -1
-        if 'Problems C' in problem.problemSetName:
-            print(problem.problemSetName)
+        #   print(problem.problemSetName)
 
 
         if type == "2x2":
