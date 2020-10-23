@@ -12,7 +12,7 @@ The agent has the accuracy of 80% with breakdown as follows:
 | Test Problems D (Unseen)| 10 | 2 | 0 |
 | Basic Problems E | 12 | 0 | 0 |
 | Test Problems E (Unseen)| 7 | 5 | 0 |
-| **Total (96)** | **76** | **20** | **0** |
+| **Total (96)** | **80** | **16** | **0** |
 
 ## Required Steps for installation
 1. Install Pycharm community edition
