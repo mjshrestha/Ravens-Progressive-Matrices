@@ -4,15 +4,15 @@ The agent has the accuracy of 80% with breakdown as follows:
 
 | Problem Set | Correct | Incorrect | Skipped |
 |-------------|---------|-----------|---------|
-| Basic Problems B | 12 | 0 | 0 |
+| Basic Problems B         | 12 | 0 | 0 |
 | Test Problems B (Unseen) | 10 | 2 | 0 |
-| Basic Problems C | 12 | 0 | 0 |
-| Test Problems C (Unseen)| 9 | 3 | 0 |
-| Basic Problems D | 9 | 3 | 0 |
-| Test Problems D (Unseen)| 10 | 2 | 0 |
-| Basic Problems E | 12 | 0 | 0 |
-| Test Problems E (Unseen)| 7 | 5 | 0 |
-| **Total (96)** | **80** | **16** | **0** |
+| Basic Problems C         | 12 | 0 | 0 |
+| Test Problems C (Unseen) | 9  | 3 | 0 |
+| Basic Problems D         | 9  | 3 | 0 |
+| Test Problems D (Unseen) | 10 | 2 | 0 |
+| Basic Problems E         | 12 | 0 | 0 |
+| Test Problems E (Unseen) | 7  | 5 | 0 |
+| **Total (96)** | **81** | **15** | **0** |
 
 ## Required Steps for installation
 1. Install Pycharm community edition
