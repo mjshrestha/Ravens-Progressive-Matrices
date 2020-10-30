@@ -1,18 +1,18 @@
 # Ravens Progressive Matrices Test
 The agent solves the non-verbal intelligence test similar to [Raven's Progressive Matrices -RPM](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices) using visual approach with pixel intensity values as the comparison metrics. It has 4 sets from B to E. Set B has 12 - 2x2 matrix problems with 6 answer choices and sets C, D, and E have 12 - 3x3 matrix problems with 8 answer choices and the problems complexity increase in ascending order.
-The agent has the accuracy of 80% with breakdown as follows:
+The agent has the accuracy of 84.3% with breakdown as follows:
 
-| Problem Set | Correct | Incorrect | Skipped |
-|-------------|---------|-----------|---------|
-| Basic Problems B | 12 | 0 | 0 |
-| Test Problems B (Unseen) | 10 | 2 | 0 |
-| Basic Problems C | 12 | 0 | 0 |
-| Test Problems C (Unseen)| 9 | 3 | 0 |
-| Basic Problems D | 9 | 3 | 0 |
-| Test Problems D (Unseen)| 10 | 2 | 0 |
-| Basic Problems E | 12 | 0 | 0 |
-| Test Problems E (Unseen)| 7 | 5 | 0 |
-| **Total (96)** | **76** | **20** | **0** |
+| Problem Set              |  Correct | Incorrect | Skipped |
+|--------------------------|----------|-----------|---------|
+| Basic Problems B         | 12       | 0         | 0       |
+| Test Problems B (Unseen) | 10       | 2         | 0       |
+| Basic Problems C         | 12       | 0         | 0       |
+| Test Problems C (Unseen) |  9       | 3         | 0       |
+| Basic Problems D         |  9       | 3         | 0       |
+| Test Problems D (Unseen) | 10       | 2         | 0       |
+| Basic Problems E         | 12       | 0         | 0       |
+| Test Problems E (Unseen) |  7       | 5         | 0       |
+| **Total (96)**           | **81**   | **15**    | **0**   |
 
 ## Required Steps for installation
 1. Install Pycharm community edition
